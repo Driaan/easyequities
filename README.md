@@ -37,3 +37,7 @@ EasyEquities.SelectTradeAccount("ZAR")
 ```
 EasyEquities.TradeEEE("Buy", "SSW", "Units", "10")
 ```
+### Close the Firefox instance after usage
+```
+EasyEquities.Quit()
+```
