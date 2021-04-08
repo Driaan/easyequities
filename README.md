@@ -10,3 +10,30 @@
 - Geckodriver
 
 ## Installation
+```
+pip install EasyEquities
+```
+
+## Usage
+### Import the library and set your login details
+```
+import EasyEquities
+
+EasyEquities.Login("Username", "Password")
+```
+### Get an overview of one of your accounts
+```
+EasyEquites.SelectOverviewAccount("Demo USD")
+```
+### Get the price details for an instrument
+```
+EasyEquities.GetTickerDetails("US", "INTC")
+```
+### Set the account to use for trading
+```
+EasyEquities.SelectTradeAccount("ZAR")
+```
+### Place a trade with Equity, ETFs or ETNs
+```
+EasyEquities.TradeEEE("Buy", "SSW", "Units", "10")
+```
