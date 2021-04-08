@@ -4,6 +4,8 @@
   <img width="512" src="https://github.com/lohanjs/images/blob/main/EasyEquities.png?raw=true" alt="Logo">
 </p>
 
+An unofficial library for interacting with an EasyEquities account, built with Selenium.
+
 ## Requirements
 - Selenium Module for Python
 - Firefox
