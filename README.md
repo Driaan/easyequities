@@ -14,7 +14,7 @@
 pip install EasyEquities
 ```
 
-## Usage Example
+## Example Usage
 ### Import the library and set your login details
 ```
 import EasyEquities
