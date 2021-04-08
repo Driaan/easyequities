@@ -4,8 +4,9 @@
   <img width="512" src="https://github.com/lohanjs/images/blob/main/EasyEquities.png?raw=true" alt="Logo">
 </p>
 
-# Requirements
+## Requirements
 - Selenium Module for Python
 - Firefox
 - Geckodriver
 
+## Installation
