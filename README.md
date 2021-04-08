@@ -1,2 +1,2 @@
-# eepy
-Easy Equities interaction with Python
+# EasyEquities 
+Python library for interacting with EasyEquities
