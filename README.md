@@ -7,7 +7,8 @@
 <p align="center">An unofficial Python library for interacting with EasyEquities.</p>
 
 ## Requirements
-- Selenium Module for Python
+- Time
+- Selenium
 - Firefox
 - Geckodriver
 
