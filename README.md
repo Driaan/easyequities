@@ -44,7 +44,7 @@ EasyEquities.TradeTFSA("Sell", "STXNDQ", "Units", "100")
 #Buy or sell the EC10 token
 EasyEquities.TradeCrypto("Buy", "Value", "111.11")
 
-#Refresh the active command - for getting update account overview or price details
+#Refresh the active command - for getting updated account overview or price details
 EasyEquities.Refresh()
 
 #Close the background Firefox instance after usage
