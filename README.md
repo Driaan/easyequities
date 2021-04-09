@@ -11,12 +11,7 @@
 - Firefox
 - Geckodriver
 
-## Installation
-```
-pip install EasyEquities
-```
-
-## Example Usage
+## Guide
 #### Import the library and set your login details
 ```
 import EasyEquities
