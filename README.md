@@ -4,7 +4,7 @@
   <img width="512" src="https://github.com/lohanjs/images/blob/main/EasyEquities.png?raw=true" alt="Logo">
 </p>
 
-<p align="center">An unofficial Python library for interacting with an EasyEquities account.</p>
+<p align="center">An unofficial Python library for interacting with EasyEquities.</p>
 
 ## Requirements
 - Selenium Module for Python
