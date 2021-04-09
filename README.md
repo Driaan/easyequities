@@ -13,7 +13,7 @@
 - Geckodriver
 
 ## Warning
-Code might require modification, depending on which accounts you have activated. As-is usage assumes you have all accounts activated except RA, Provident and Pension
+Code might require modification, depending on which accounts you have activated. As-is usage assumes you have all accounts activated except RA, Provident and Pension.
 
 ## Guide
 ```python
