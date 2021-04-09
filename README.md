@@ -30,10 +30,12 @@ EasyEquities.GetTickerDetails("US", "INTC")
 #Get price details for the EC10 token from EE
 EasyEquities.GetTokenDetails()
 
-#Select an account to place trades with - options are "ZAR"/"Demo ZAR"/"TFSA"/"USD"/"Demo USD"/"AUD" - has to be set before continuing with commands below
+#Select an account to place trades with - options are "ZAR"/"Demo ZAR"/"TFSA"/"USD"/"Demo USD"/"AUD"
+#- has to be set before continuing with commands below
 EasyEquities.SelectTradeAccount("ZAR")
 
-#Buy or sell a Stock/ETF/ETN on ZAR/Demo ZAR/USD/Demo USD/AUD - options are "Buy"/"Sell", "Value"/"Units" (for choosing a currency value or instrument amount/percentage)
+#Buy or sell a Stock/ETF/ETN on ZAR/Demo ZAR/USD/Demo USD/AUD - options are "Buy"/"Sell", "Value"/"Units" 
+#(for choosing a currency value or instrument amount/percentage)
 EasyEquities.TradeEEE("Buy", "SSW", "Units", "10")
 
 #Buy or sell on TFSA
